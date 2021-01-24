@@ -1,3 +1,3 @@
 #### playground
 
-Random (not optimized) programming attempts. ):
+Random (not elegant/optimized) programming attempts. ):
