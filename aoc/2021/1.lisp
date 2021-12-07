@@ -35,10 +35,6 @@
 (aoc-1-1 "1") ; => 1766 (11 bits, #x6E6)
 
 ;; Parte 2
-(defun miembro-p-truqueado (lista)
-  "Devuelve T si el tercer elemento de una lista es NIL"
-  (equal (third lista) NIL))
-
 (defun porcion (inicio longitud lista)
   "Devuelve la sublista de LONGITUD elementos a partir de INICIO"
   (do* ((i 0 (1+ i))
