@@ -1,5 +1,4 @@
 // https://omegaup.com/arena/problem/buscaminas1
-
 #include <iostream>
 using namespace std;
 

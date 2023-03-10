@@ -1,4 +1,4 @@
-// https://omegaup.com/arena/Paketaxo#problems/Xornacci-cpp
+// https://omegaup.com/arena/problem/Xornacci-cpp
 #include <iostream>
 
 int xoracci(int a, int b, int n){
